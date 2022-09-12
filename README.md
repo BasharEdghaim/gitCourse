@@ -1,2 +1,4 @@
 # gitCourse
-for AlzeroWeb
+project notes for AlzeroWeb
+
+
